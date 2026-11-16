@@ -1,2 +1,2 @@
 print("Hello, CP125")
-print("najib")
+print("My name is khairani")
